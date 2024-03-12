@@ -1,11 +1,14 @@
-## Getting Started
+# Hector Caballero - Test
 
-Puedes ver los datos de los empleados en pages/api/employees.ts para hacer pruebas con DNI's.
+## **Importante**
+>Puedes ver los datos de los empleados en pages/api/employees.ts para hacer pruebas con DNI's.
 
---Probar el app
+## Ejecutar el App
+```
 npm install & npx run dev
+```
 
-# or
-
---Probar los tests
+## Ejecutar los Test
+```
 npm test
+```
